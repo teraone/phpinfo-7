@@ -1,0 +1,15 @@
+{
+    "name": "teraone/phpinfo-7",
+    "description": "PHP Info for heroku",
+    "type": "project",
+    "require": {
+        "php": "7.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "teraone",
+            "email": "pool@teraone.de"
+        }
+    ]
+}
